@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Adam Johnson.
+- 👋 Hi, my name is Adam Johnson. I am a new father, a lover of soccer, and an advocate of strong connections.
 - 👀 I’m a recent bootcamp graduate specializing in React. I love the challenge that code provides and I am seeking opportunities as a Web Developer.
 - 🌱 I’m currently working on a website for the Peoria Area Community Festival of Nativities built with React, Node, and Postgres using an EC2 server to host the website.
 - 📫 Feel free to reach out to me at adaojohnson902@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/adamj7/
