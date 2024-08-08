@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Adam Johnson. I am a new father, a lover of soccer and golf, and an advocate of people and strong connections.
+- 👋 Hi, my name is Adam Johnson. (Adao is Portuguese for Adam) I am a new father, a lover of soccer and golf, and an advocate of people and strong connections.
 
 - 👀 I’m a college and bootcamp graduate specializing in React. I love the challenge that code provides and I am actively seeking opportunities as a Web Developer or Software Engineer.
 
