@@ -8,4 +8,4 @@ I am also a seasoned leader with experience working with small and large teams h
 
 I love soccer, golf, Nebraska football, a good burger, and my family. 
 
-📫 Feel free to reach out to me at adaoj.dev@gmail.com or connect with me on LinkedIn! 
+📫 Feel free to reach out to me at adaoj.dev@gmail.com or connect with me on LinkedIn https://linkedin.com/in/adamj7! 
